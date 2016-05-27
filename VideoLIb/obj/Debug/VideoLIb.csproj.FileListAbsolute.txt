@@ -1,0 +1,13 @@
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\obj\Debug\VideoLIb.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\VideoLIb.dll
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\VideoLIb.pdb
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\Newtonsoft.Json.dll
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\System.Net.Http.Formatting.dll
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\System.Web.Http.dll
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\System.Web.Http.WebHost.dll
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\Newtonsoft.Json.xml
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\System.Net.Http.Formatting.xml
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\System.Web.Http.xml
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\bin\System.Web.Http.WebHost.xml
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\obj\Debug\VideoLIb.dll
+C:\Users\Robert\Desktop\videoSteamer\sourceCode\VideoLIb\obj\Debug\VideoLIb.pdb
