@@ -75,6 +75,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="index.html" />
+    <Content Include="videos\avan.mp4" />
     <Content Include="videos\pur a big video herea.txt" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
